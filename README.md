@@ -37,6 +37,11 @@ btree.print_tree(btree.root)
 
 ```
 
+## THIS IS ONLY FOR LEARNING PURPOSE
+
+For more details, check here.
+[BTree tutorail](!https://www.bilibili.com/video/BV1Y14y1y77X/?vd_source=367aed41a535ceffdb176c3ab1b4b146)
+
 ## Testing
 
 This implementation comes with a suite of tests that verify the correctness of the BTree operations. These tests include:
